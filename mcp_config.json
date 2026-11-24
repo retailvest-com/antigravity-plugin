@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "smart-money": {
+      "serverUrl": "https://api.retailvest.com/mcp"
+    }
+  }
+}

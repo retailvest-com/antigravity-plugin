@@ -1,0 +1,30 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "retailvest",
+  "displayName": "RetailVest Smart Money",
+  "description": "What Buffett, Ackman and 250 famous investors own, buy and sell, insider trades, company briefs and futures positioning, from SEC and CFTC filings.",
+  "version": "1.1.0",
+  "logo": "logo.png",
+  "suggestedPrompts": [
+    "What did Warren Buffett buy and sell last quarter?",
+    "Which hedge funds own Nvidia, and who added to it?",
+    "Would copying Bill Ackman's 13F have beaten the S&P 500?"
+  ],
+  "author": {
+    "name": "AVPMR Technologies Inc.",
+    "url": "https://www.retailvest.com"
+  },
+  "homepage": "https://www.retailvest.com",
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "13f",
+    "hedge-funds",
+    "insider-trading",
+    "sec-filings",
+    "cftc",
+    "commitments-of-traders",
+    "investing"
+  ],
+  "repository": "https://github.com/retailvest-com/antigravity-plugin"
+}
