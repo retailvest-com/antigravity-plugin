@@ -1,5 +1,7 @@
 # RetailVest Smart Money for Antigravity
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/retailvest-com-antigravity-plugin-tcutun?v=616eaa3597931e0a2c0e68ed467f1820)](https://m8ven.ai/mcp/retailvest-com-antigravity-plugin-tcutun?s=readme)
+
 Ask Antigravity what famous investors own and trade, straight from public SEC and CFTC filings.
 
 - **Investor portfolios:** the latest 13F of about 250 well-known investors and hedge funds (Berkshire Hathaway,
